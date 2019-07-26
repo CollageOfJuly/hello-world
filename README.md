@@ -1,2 +1,5 @@
 # hello-world
-一位初学者小白
+
+Hi!guys!
+
+I love code,it's very funny!!!!
